@@ -1,0 +1,13 @@
+.section {
+    padding-left: 35px;
+}
+
+.sectionTitle {
+    font-weight: 600;
+    font-size: 36px;
+}
+.div {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
